@@ -1,0 +1,19 @@
+.custom-background {
+  background-color: #130F26;
+  width: 100%;
+  height: 100vh;
+}
+
+.dropzone-wrapper {
+  background: linear-gradient(to bottom right, #00ff00, #008000);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.dropzone {
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 40px;
+  border-radius: 10px;
+  text-align: center;
+}
+
