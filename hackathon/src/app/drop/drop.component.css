@@ -5,15 +5,15 @@
 }
 
 .dropzone-wrapper {
-  background: linear-gradient(to bottom right, #00ff00, #008000);
   padding: 20px;
   border-radius: 10px;
 }
 
 .dropzone {
-  background-color: rgba(255, 255, 255, 0.2);
   padding: 40px;
   border-radius: 10px;
   text-align: center;
+  box-shadow: 0 0 10px 5px rgba(0, 255, 0, 0.3);
 }
+
 
